@@ -97,7 +97,7 @@ def turtles(color, thickness):
 
 ###############################################################################
 #
-# TODO: 5.
+# done: 5.
 #   COMMIT-and-PUSH your work (after changing this TO-DO to DONE).
 #
 #   As a reminder, here is how you should do so:
